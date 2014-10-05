@@ -8,6 +8,7 @@
   },
   "author": "Ruslan Tsmikaylo <ruslantsm@gmail.com>",
   "license": "ISC",
+  "private": true,
   "dependencies": {
     "body-parser": "^1.9.0",
     "express": "^4.9.5",
